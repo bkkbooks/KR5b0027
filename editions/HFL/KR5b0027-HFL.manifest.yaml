@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5b0027/HFL/v1
+canonical_location: https://kanripo.org/bkk/KR5b0027/HFL/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 太上洞玄靈寶四方大願經
+  date: '2015-08-28 23:47:42.096365'
+  source:
+    repository: kanripo
+    path: KR5b0027
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5b0027_000-HFL.yaml, hash: 'sha256:cb09c66c06d9e03085f42675918dd875fdb8fb912b3bbecf6d5c183dca4fc8d8'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5b0027_000-HFL.markers.yaml, hash: 'sha256:27fdbae7c430a812a41c9f587028cce32a1f6c4b7e803dfec299539e99c2a4a8'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5b0027_HFL_000-001a
+    span:
+    - body
+    - 0
+    - 733
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:24985ba518928b2dd33db8bc9a454a5e405a47bdb76db3210e5058b0ef642185
