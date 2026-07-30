@@ -23,18 +23,18 @@ entity_encoding:
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 assets:
   parts:
-  - {seq: 0, filename: KR5b0027_000-ZTDZ.yaml, hash: 'sha256:ac0aadaa8407ea6490e0fb51ad09e540b0d6d090af2e6034b0b68cb6bdca8b57'}
+  - {seq: 0, filename: KR5b0027_000-ZTDZ.yaml, hash: 'sha256:39008ca637ddd5981ff8fd5203d4544ab99e4678960f0ea968e1fecf8dca8019'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR5b0027_000-ZTDZ.markers.yaml, hash: 'sha256:5e3a7f16ca89c9cafe35509f46a329c6839bc317525f7f0dcce2b8dc626b0d86'}
+  - {seq: 0, role: markers, filename: assets/KR5b0027_000-ZTDZ.markers.yaml, hash: 'sha256:ae869aa2e0fa395a4dcf8dc057ae8762a254b3c8cf10bfa4f2d4d94fac2221e9'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR5b0027_SJB_000-060153c
     span:
     - body
-    - 0
-    - 733
+    - 815
+    - 1548
   label: juan 000
   type: section
   level: 1
-hash: sha256:4954e3f8d6fd552025e5340a57dbc7b0afa199f9061c49ce4904ec0b2091781f
+hash: sha256:12aec9b660bea8a393af95aa52d134d6071f929fab02acc91e1bff42a2f33a7c
